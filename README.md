@@ -46,13 +46,15 @@ While these tools are shared with the community, please note:
 
 ## 🤝 Contributing
 
-Found a bug? Have an idea for improvement? Contributions are welcome! Here's how you can help:
+I appreciate your interest in contributing to Roy's PowerShell Toolbox! At the moment, I'm not accepting direct contributions through pull requests. However, your feedback and suggestions are valuable. If you have ideas for improvements or have found a bug, please open an issue in the repository. I'll review all suggestions and may incorporate them in future updates.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+If you'd like to build upon these tools for your own use:
+
+1. Fork the repository to your own GitHub account.
+2. Make any changes or improvements in your forked version.
+3. If you've made changes that you think would benefit others, feel free to open an issue describing your changes.
+
+Remember, while you're free to use and modify these tools for your personal use, any public distribution or commercial use may require permission. Always check the license terms before sharing or using in a commercial setting.
 
 ## 📞 Contact
 
