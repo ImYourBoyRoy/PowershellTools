@@ -16,11 +16,16 @@ The `Update-WebDrivers.psm1` module automates the process of downloading and upd
 
 - PowerShell 5.1 or later
 - Microsoft.PowerShell.Archive module (version 1.0.0.0 or later)
+- Selenium Wrapper
 
 ## 🛠️ Installation
 
-1. Clone this repository or download the `Update-WebDrivers.psm1` file.
-2. Place the file in your desired module directory or in the SeleniumTools folder of your project.
+1. Install initial selenium module.
+   ```powershell
+   install-module selenium
+   ```
+3. Clone this repository or download the `Update-WebDrivers.psm1` file.
+4. Place the file in your desired module directory or in the SeleniumTools folder of your project.
 
 ## 🔧 Usage
 
