@@ -26,18 +26,6 @@ winget install Microsoft.PowerShell
 
 This will ensure you're using PowerShell 7 or later, which is what these tools are optimized for.
 
-## 🗂️ Repository Structure
-
-This repository serves as the grand central station for all my PowerShell tools. Each category has its own subfolder, making it easy to find exactly what you need.
-
-```
-PowerShellTools/
-├── CorporateTools/
-├── PersonalProjects/
-├── UtilityScripts/
-└── ... (more awesome categories to come!)
-```
-
 ## 💼 License
 
 While these tools are shared with the community, please note:
@@ -55,10 +43,6 @@ If you'd like to build upon these tools for your own use:
 3. If you've made changes that you think would benefit others, feel free to open an issue describing your changes.
 
 Remember, while you're free to use and modify these tools for your personal use, any public distribution or commercial use may require permission. Always check the license terms before sharing or using in a commercial setting.
-
-## 📞 Contact
-
-Want to reach out? Stay tuned for contact information!
 
 ## 🌟 Star Gazing
 
